@@ -1,5 +1,6 @@
 ﻿# number-theory
-This project contains the implementation of some algorithms and results from the Number Theory course. It contains:
+This project contains the implementation of some algorithms and results from the Number Theory course. 
+It includes:
 
 <ul>
    <li type="disc">Euclidean Algorithm</li>
