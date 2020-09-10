@@ -20,6 +20,7 @@ public class EuclideanAlgorithm {
 		
 		try {
 			
+			System.out.println("Euclidean algorithm for finding the Greatest Commun Factor between two numbers \n");
 			System.out.println("Enter the first positive whole number:");
 			int x = Integer.parseInt(br.readLine());
 			System.out.println("Enter the second positive whole number:");
@@ -39,7 +40,10 @@ public class EuclideanAlgorithm {
 	}
 	
 	/*
-	 * Euclidean algorithm
+	 * Euclidean algorithm to calculate the Greatest Common Factor between two whole numbers.
+	 * @param x First number. x has to be a natural number.
+	 * @param y Second number. y has to be a natural number.
+	 * @return Greatest Commun Factor between the two numbers.
 	 */
 	public static int gcf(int x, int y) {
 		
