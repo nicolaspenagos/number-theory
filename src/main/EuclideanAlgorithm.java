@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
 /*
  * This class provides the implementation of Euclidean algorithm to calculate the Greatest Common Factor between two whole numbers.
  */
-public class EuclidesAlgorithm {
+public class EuclideanAlgorithm {
 
 	public static void main(String args[]) {
 		
