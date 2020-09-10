@@ -4,6 +4,7 @@ This project contains the implementation of some algorithms and results from the
 <ul>
    <li type="disc">Euclidean Algorithm</li>
 </ul>
+
 ## Made by
   <ul>
   <li><div><a href="https://github.com/nicolaspenagos" title="Nicolas Penagos">Nicolás Penagos</a>   </div></li>
