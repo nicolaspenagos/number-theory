@@ -3,6 +3,7 @@ This project contains the implementation of some algorithms and results from the
 
 <ul>
    <li type="disc">Euclidean Algorithm</li>
+   <li type="disc">Sieve of Eratosthenes</li>
 </ul>
 
 ## Made by
